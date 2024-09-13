@@ -1,0 +1,87 @@
+{
+  "entryWords": {
+  "diz": {
+    "a": "tur diz “knee” < ota دیز < ptr *tīŕ “joint” < ptr *tī- “to straighten” + ptr *+ŕ <br><br> Besides, ptr *tī- < ppt *tīḏ- “to set”"
+  },
+  "diri": {
+    "a": "tur diri “alive” < ota دیری ≈ otk 𐱅𐰃𐰼𐰏 < ptr *tīrig < ptr *tīri- “to live” + ptr *+g <br><br> See <span class='searchable'>dirilmek</span>."
+  },
+  "dirilmek": {
+    "a": "tur diril- “to come alive” < ota -دیرل ≈ otk -𐱅𐰃𐰼𐰠 < ptr *tīri- + ptr *+l- <br><br> Besides, ptr *tīri- “to stand, arise” < ptr *tīŕ “joint” + ptr *+I- <br><br> See <span class='searchable'>diz</span>."
+  },
+  "dirsek": {
+    "a": "tur dirsek‎ “elbow” < ptr *tirsgek < ptr *tīrse- “to joint” + ptr *+gAk <br><br> Besides, tuk tirse- “to turn, curl” < ptr *tīrse- < ptr  *tīŕ “joint” + ptr *+sA- <br><br> See <span class='searchable'>diz</span>."
+  },
+  "dik": {
+    "a": "tur dik “upright, vertical” < ota دیك < ptr *tīk < ptr *tī- “set up” + ptr *+k <br><br> See <span class='searchable'>dikmek</span>."
+  },
+  "dizmek": {
+    "a": "tur diz- “to line up” < ota -ديز ≈ otk -𐱅𐰃𐰼𐰠 < ptr *tīŕ- “to bead, string; arrange in a row” < ptr *tī- + ptr +ŕ- <br><br> See <span class='searchable'>diz</span>."
+  },
+  "diremek": {
+    "a": "tur dire- “to resist, hold up, persist” < ota -ديز ≈ otk -𐱅𐰃𐰼𐰠 < ptr *tīrge- < ptr *tīrig + ptr *+A- <br><br> See <span class='searchable'>diri</span>."
+  },
+  "dirlik": {
+    "a": "tur dirlik‎ “health, life” < ota ? < oat tirlik < oat tiril- oat +k <br><br> See <span class='searchable'>dirilmek</span>."
+  },
+  "dikmek": {
+    "a": "tur dik- “to erect, to plant” < ota -دیك ≈ otk -𐱅𐰃𐰚 < ptr *tīk- < ptr *tī- “set up” + ptr *+k- <br><br> See <span class='searchable'>diz</span>."
+  },
+  "ayak diremek": {
+    "a": "tur ayak diremek “persist in” <br><br> See  <span class='searchable'>ayak</span>, <span class='searchable'>diremek</span>."
+  },
+  "din": {
+    "a": "tur din “peak” < ptr *tiŋ “upright” < ptr *tī- + ptr +ŕ- <br><br> See <span class='searchable'>diz</span>." 
+  }
+  },
+  "clickableWords": {
+    "*+ŕ": [
+      [ "<span class='yellow'>verb</span> *ag-", "<span class='gray'>“to rise”</span>", "<span class='yellow'>noun</span> *agïŕ", "<span class='gray'>“mouth”</span>" ],
+      [ "<span class='yellow'>verb</span> *bog-", "<span class='gray'>“to choke”</span>", "<span class='yellow'>noun</span> *boguŕ", "<span class='gray'>“throat”</span>" ]
+    ],
+    "*+gAk": [
+      [ "<span class='yellow'>verb</span> *dam-", "<span class='gray'>“to drip”</span>", "<span class='yellow'>noun</span> *damgak", "<span class='gray'>“throat”</span>" ],
+      [ "<span class='yellow'>verb</span> *or-", "<span class='gray'>“to mow, reap”</span>", "<span class='yellow'>noun</span> *orgak", "<span class='gray'>“sickle”</span>" ]
+    ],
+    "*+sA-": [
+      [ "<span class='yellow'>noun</span> *yük", "<span class='gray'>“load”</span>", "<span class='yellow'>verb</span> *yükse-", "<span class='gray'>“to rise”</span>" ],
+      [ "<span class='yellow'>noun</span> *kāp", "<span class='gray'>“vessel”</span>", "<span class='yellow'>verb</span> *kapsa-", "<span class='gray'>“to include”</span>" ]
+    ],
+    "*+I-": [
+      [ "<span class='yellow'>noun</span> *yabïŕ", "<span class='gray'>“bad”</span>", "<span class='yellow'>verb</span> *yabrï-", "<span class='gray'>“to deteriorate”</span>" ],
+      [ "<span class='yellow'>noun</span> *sékiŕ", "<span class='gray'>“alive”</span>", "<span class='yellow'>verb</span> *sékri-", "<span class='gray'>“to splash”</span>" ]
+    ],
+    "*+g": [
+      [ "<span class='yellow'>verb</span> *āčï-", "<span class='gray'>“to pity, to hurt, become sour”</span>", "<span class='yellow'>noun</span> *āčïg", "<span class='gray'>“pain, ache, bitter”</span>" ],
+      [ "<span class='yellow'>verb</span> *yalïn-", "<span class='gray'>“be isolated”</span>", "<span class='yellow'>noun</span> *yalïŋ", "<span class='gray'>“lonely”</span>" ]
+    ],
+    "*+l-": [
+      [ "<span class='yellow'>verb</span> *adïr-", "<span class='gray'>“to divide, separate”</span>", "<span class='yellow'>verb</span> *adrïl-", "<span class='gray'>“to leave”</span>" ],
+      [ "<span class='yellow'>verb</span> *tēr-", "<span class='gray'>“to gather”</span>", "<span class='yellow'>verb</span> *tēril-", "<span class='gray'>“to be gathered”</span>" ]
+    ],
+    "*+k-": [
+      [ "<span class='yellow'>verb</span> *ạ̄č-", "<span class='gray'>“to hunger”</span>", "<span class='yellow'>verb</span> *ạ̄čïk-", "<span class='gray'>“to be hungry, to hunger”</span>" ],
+      [ "<span class='yellow'>verb</span> *si-", "<span class='gray'>“to urinate”</span>", "<span class='yellow'>verb</span> *sik-", "<span class='gray'>“to copulate”</span>" ]
+    ],
+    "*+k": [
+      [ "<span class='yellow'>verb</span> *ač-", "<span class='gray'>“to open”</span>", "<span class='yellow'>noun</span> *ačuk", "<span class='gray'>“open”</span>" ],
+      [ "<span class='yellow'>verb</span> *sā-", "<span class='gray'>“to think, count, regard”</span>", "<span class='yellow'>noun</span> *sāk", "<span class='gray'>“aware, alert”</span>" ]
+    ]
+  },
+  "specialWords": {
+    "ppt": "Pre-Proto-Turkish",
+    "ptr": "Proto-Turkish",
+    "bgx": "Balkan Gagauz Turkish",
+    "kmz": "Khorasani Turkish",
+    "ota": "Ottoman Turkish",
+    "otk": "Orkhon Turkic",
+    "tur": "Turkish",
+    "crh": "Crimean Turkish",
+    "sah": "Yakut",
+    "ybe": "West Yugur",
+    "tuk": "Turkmen",
+    "xng": "Middle Mongolian",
+    "mon": "Mongolian",
+    "cmg": "Classical Mongolian"
+  }
+}

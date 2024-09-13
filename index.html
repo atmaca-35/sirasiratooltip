@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitibook</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="logo.ico" type="image/x-icon">
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+    </style>
+    <style>
+        /* Hata durumunda search-box'ın saydam ve tıklanamaz hale gelmesi için CSS */
+        .search-box.disabled {
+            opacity: 0.5; /* Saydamlık ekler */
+            pointer-events: none; /* Tıklanamaz hale getirir */
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <div class="container">
+            <div class="search-container">
+                <div id="errorContainer"></div>
+                <p id="wordCount" class="word-count"></p>
+                <div class="search-box" id="searchBoxContainer">
+                    <input type="text" id="searchBox">
+                    <span id="ghostText" class="ghost-text"></span>
+                </div>
+                <div class="selected-word-meanings" id="selectedWordMeanings"></div>
+            </div>
+            <div class="result" id="result"></div>
+        </div>
+    </main>
+    <script src="scripts.js" defer onerror="handleScriptError()"></script>
+     <script src="vocabulary.json" defer onerror="handleScriptError()"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.3.9/purify.min.js"></script>
+    <script>
+        function handleScriptError() {
+            // Hata mesajını göster ve fontu ayarla
+            const wordCount = document.getElementById('wordCount');
+            wordCount.innerHTML = '<span style="color: #dc3545; font-family: Tahoma, -apple-system, \'Helvetica Neue\', Helvetica, Roboto, sans-serif;">Oops!</span>';
+
+            // Search-box'ı saydam yap ve tıklanamaz hale getir
+            const searchBox = document.getElementById('searchBoxContainer');
+            searchBox.classList.add('disabled');  // 'disabled' sınıfını ekle
+        }
+    </script>
+</body>
+</html>
